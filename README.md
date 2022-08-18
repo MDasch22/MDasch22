@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working on [Instashow](https://instashow.herokuapp.com/)
 
-- 🌱 I’m currently learning **Frameworks and Data-structures and algorithms**
+- 🌱 I’m currently learning **everything!!**
+
+- 🕺🏽 I am looking to collaborate with other aspiring software engineers
 
 - 📫 How to reach me **michaeldasch22@gmail.com**
 
