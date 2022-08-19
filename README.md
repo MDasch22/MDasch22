@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdasch22&label=Profile%20views&color=0e75b6&style=flat" alt="mdasch22" /> </p>
 
-Heres alittle about me...
+Heres a little bit about me...
 
 - 🔭 I’m currently working on [Instashow](https://instashow.herokuapp.com/)
 
