@@ -10,7 +10,11 @@
 
 - 🕺🏽 I am looking to collaborate with other aspiring software engineers
 
+- 💬 Ask me about ... Anything!!
+
 - 📫 How to reach me **michaeldasch22@gmail.com**
+
+- ⚡ Fun Fact: I was born in Japan! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
