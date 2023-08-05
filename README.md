@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" alt="codinggif" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966"></img>
+<img align="center" alt="codinggif" width="600" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></img>
 </p>
 <h1 align="center">Hi 👋, I'm Michael Dasch</h1>
 <h3 align="center">A passionate full-stack developer from San Diego, California</h3>
