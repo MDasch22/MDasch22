@@ -10,7 +10,7 @@ Heres a little bit about me...
 
 - 🔭 I’m currently working on [Instashow](https://instashow.herokuapp.com/)
 
-- 🌱 I’m currently learning **everything!!**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 🕺🏽 I am looking to collaborate with other aspiring software engineers
 
