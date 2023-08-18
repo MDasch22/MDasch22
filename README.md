@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Michael Dasch</h1>
 <h3 align="center">A passionate full-stack developer from San Diego, California</h3>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdasch22&show_icons=true&locale=en" alt="mdasch22" /></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdasch22&label=Profile%20views&color=0e75b6&style=flat" alt="mdasch22" /> </p>
 
 Heres a little bit about me...
